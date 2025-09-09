@@ -21,7 +21,9 @@ SL %: Percentage of sick leave taken.
 Time-Series Analysis: Visualizations show the trends of Attendance, Sick Leave, and WFH percentages over time, helping to identify daily and weekly patterns.
 Day-of-the-Week Insights: Breakdown of key metrics by the day of the week, allowing for the analysis of specific patterns (e.g., higher WFH on Fridays).
 Interactive Tables: Detailed tables provide a granular view of employee-level attendance data, including individual Attendance %, Present Days, and WFH %.
-User-Friendly Interface: The dashboard is designed to be intuitive and easy to navigate, providing quick access to critical workforce insights.
+User-Friendly Interface: The dashboard is designed to be intuitive and easy to navigate, providing quick access to critical workforce insights. 
+Show what the dashboard looks like :
+Screenshot Example:https://github.com/anjalibagal20-max/HR-Analytics-dashboard-/blob/main/Screenshot%202025-09-08%20111221.png
 
 * Screenshots/
   show what the dashboard looks like :
